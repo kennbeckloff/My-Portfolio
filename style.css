@@ -147,7 +147,23 @@
   .text-secondary {
     color: mediumspringgreen;
  }
-  
+ main#home {
+    overflow: hidden; }
+    main#home h1 {
+    margin-top: 20vh;
+}
+   
+ main {
+    padding: 150px;
+    min-height: calc(100vh - 80px);
+ }
+ main .icons a {
+        padding: 13px;
+ }
+main .icons a:hover {
+     color: mediumspringgreen;
+     transition: all 0.5s ease-out;
+}
 
    
  
