@@ -4,7 +4,7 @@
   body {
     background: #444;
     color: #fff;
-    background-image: url(./Assets/images/background.jpg);
+    background-image: url(../images/background.jpg);
     opacity: 10px;
     height: 100%;
     margin: 0;
@@ -37,7 +37,7 @@
     position: fixed;
     width: 100%;
     opacity: 1.0;
-    background-image: url(/Assets/images/coding.jpg);
+    background-image: url(../images/IMG_0113.jpg);
     visibility: hidden; 
 }
     .menu.show {
@@ -80,7 +80,7 @@
       .menu-branding .portrait {
         width: 250px;
         height: 250px;
-        background: url("./Assets/images/IMG_0113.jpg");
+        background: url("../images/IMG_0113.jpg");
         background-repeat: no-repeat;
         border-radius: 50%;
         border: solid 5px grey; 
